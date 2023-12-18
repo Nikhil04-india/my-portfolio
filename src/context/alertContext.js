@@ -9,7 +9,6 @@ export const AlertProvider = ({ children }) => {
     type: 'success',
     // Message to be displayed, can be any string
     message: '' ,
-
     });
 
 
